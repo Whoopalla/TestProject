@@ -1,0 +1,25 @@
+.EditableList__ListItems_container-flex {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    padding: 0;
+}
+
+.EditableList__Form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+}
+
+.EditableList__Form_Btn {
+    min-height: 3.5rem;
+}
+
+.EditableList__ListItems_container-flex {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    padding: 0;
+    align-items: center;
+}
